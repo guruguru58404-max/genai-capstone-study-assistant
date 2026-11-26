@@ -1,5 +1,0 @@
-streamlit
-anthropic
-chromadb
-pypdf
-pysqlite3-binary; sys_platform == "linux"
